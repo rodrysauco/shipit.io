@@ -30,11 +30,7 @@
 
 <!-- GETTING STARTED -->
 
-## Getting Started
-
-To access exercise tasks and wireframes go to the [google doc](https://docs.google.com/document/d/1CjUiOvz0aEVYp1MXMSRuEoWmyxG4U9Sk/edit#heading=h.wkrpakjlf89a)
-
-### Prerequisites
+## Prerequisites
 
 To get to run the project locally you need to have node v18.12.0 installed. You can follow [this tutorial](https://itsromiljain.medium.com/the-best-way-to-install-node-js-npm-and-yarn-on-mac-osx-4d8a8544987a) to get the environment ready.
 
@@ -53,13 +49,13 @@ To get to run the project locally you need to have node v18.12.0 installed. You 
    yarn dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### [Wireframes](https://www.figma.com/file/l3IJIV5LoJyLKLinVrR5Bd/shipit.io-coding-exercise?node-id=102%3A6167)
 
 ### Tasks
 
-1. Develop play/pause functionality to be able to see the player component while navigating through the diferent screens.
-2. We should be able to display the play state both on the episodes list and the episode screen.
-3. Develop favorite feature so the user is able to give star to episodes and persist this info into browser local storage.
+1. Develop play/pause so
+2. Develop play/pause functionality to be able to see the player component while navigating through the diferent screens.
+3. We should be able to display the play state both on the episodes list and the episode screen.
+4. Develop favorite feature so the user is able to give star to episodes and persist this info into browser local storage.
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
