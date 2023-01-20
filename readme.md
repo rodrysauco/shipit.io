@@ -49,13 +49,12 @@ To get to run the project locally you need to have node v18.12.0 installed. You 
    yarn dev
    ```
 
-### [Wireframes](https://www.figma.com/file/l3IJIV5LoJyLKLinVrR5Bd/shipit.io-coding-exercise?node-id=102%3A6167)
+### [Wireframes](https://www.figma.com/file/IXxABkpgoqK16ZoiumVsxv/shipit.io-coding-exercise)
 
 ### Tasks
 
-1. Develop play/pause so
+1. Develop play/pause functionality so play button on the episodes list reflects the current state.
 2. Develop play/pause functionality to be able to see the player component while navigating through the diferent screens.
-3. We should be able to display the play state both on the episodes list and the episode screen.
-4. Develop favorite feature so the user is able to give star to episodes and persist this info into browser local storage.
+3. Develop favorite feature so the user is able to give star to episodes and persist this info into browser local storage.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
