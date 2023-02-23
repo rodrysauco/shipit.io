@@ -38,7 +38,7 @@ To get to run the project locally you need to have node v18.12.0 installed. You 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/deptagency-dar/archie-bot.git
+   git clone https://github.com/deptagency-dar/shipit.io
    ```
 2. Install packages
    ```sh
