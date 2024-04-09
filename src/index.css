@@ -53,6 +53,15 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {

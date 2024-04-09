@@ -17,6 +17,8 @@ export interface Episode {
   release_date_precision: string;
   type: string;
   uri: string;
+  isPlaying?: boolean;
+  isFavorite?: boolean;
 }
 export interface ExternalUrls {
   spotify: string;
